@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multiple-receivers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processor-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quartz2-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-route" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-route" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/split-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testing-strategy-examples" charset="UTF-8" />
+  </component>
+</project>

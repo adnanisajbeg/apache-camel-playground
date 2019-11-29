@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quartz2-example" />
+        <module name="simple-route" />
+        <module name="processor-examples" />
+        <module name="rest-route" />
+        <module name="multiple-receivers" />
+        <module name="db-example" />
+        <module name="split-examples" />
+        <module name="file-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testing-examples" target="13" />
+      <module name="testingstrategyexamples" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apache-camel-playground" options="-parameters" />
+      <module name="db-example" options="-parameters" />
+      <module name="file-example" options="-parameters" />
+      <module name="multiple-receivers" options="-parameters" />
+      <module name="processor-examples" options="-parameters" />
+      <module name="quartz2-example" options="-parameters" />
+      <module name="rest-route" options="-parameters" />
+      <module name="simple-route" options="-parameters" />
+      <module name="split-examples" options="-parameters" />
+      <module name="testing-examples" options="-parameters" />
+      <module name="testingstrategyexamples" options="-parameters" />
+    </option>
+  </component>
+</project>
