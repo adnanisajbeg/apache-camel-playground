@@ -124,3 +124,6 @@ hs_err_pid*
 
 
 split-examples/target/
+simple-route/target/
+*/target/*
+*/target/**

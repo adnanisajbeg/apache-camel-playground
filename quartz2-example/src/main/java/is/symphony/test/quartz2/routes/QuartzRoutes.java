@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class QuartzRoutes extends RouteBuilder {
     @Override
     public void configure() throws Exception {
-        from("quartz2://updateSongData?cron=0/0+*/5+*+*+*+?")
+        from("quartz2://updateSongData?cron=*+*+*+*+*+?")
                 .log("starting something with quartz...")
         ;
 
